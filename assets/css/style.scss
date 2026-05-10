@@ -3,5 +3,5 @@
 
 @import "{{ site.theme }}";
 
-#forkme_banner { display: none; }
-#footer_wrap .inner > p:first-child { display: none; }
+.page-header .btn { display: none; }
+.site-footer-owner { display: none; }
